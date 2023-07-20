@@ -1,0 +1,33 @@
+.continarbox{
+margin-left: 50px;
+margin-right: 50px;
+background-color: #c4beba;
+border-radius: 10px;
+border: 2px solid  #e73305;
+}
+.continarboxinner{
+    margin-left: 10px;
+    margin-right: 10px;   
+}
+.h1{
+    font-family: "Playfair Display", serif !important;
+    font-size: 2vw;
+    font-weight: 800;
+    line-height: 1;
+    color: #e05d06 !important;   
+}
+.savebutton{
+    
+    margin-left: 45%;
+    margin-top: 20px;   
+    margin-bottom:100px;  
+     
+}
+input[type="text"],
+input[type="number"],
+textarea {
+    border-radius: 20px ;
+    border: 1px solid  black;
+
+    background-color: whitesmoke;
+}

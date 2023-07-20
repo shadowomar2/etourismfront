@@ -1,0 +1,78 @@
+/* Tours component */
+.tours-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .tours-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .tours-header h1 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .tours-add-btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .tours-add-btn:hover {
+    background-color: #0062cc;
+  }
+  
+  .tours-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .tours-table th,
+  .tours-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  .tours-table th {
+    font-weight: bold;
+  }
+  
+  .tours-delete-btn {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  .tours-delete-btn:hover {
+    background-color: #c82333;
+  }
+  
+  /* Delete Dialog */
+  .tours-dialog {
+    font-size: 16px;
+  }
+  
+  .tours-dialog-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .tours-dialog-text {
+    margin-bottom: 20px;
+  }

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/etourismfront/static/css/main.43a1d94d.css",
+    "main.js": "/etourismfront/static/js/main.4f3abd88.js",
+    "static/js/787.4870e334.chunk.js": "/etourismfront/static/js/787.4870e334.chunk.js",
+    "static/media/download.png": "/etourismfront/static/media/download.d2ac79f48aa8d25f5288.png",
+    "index.html": "/etourismfront/index.html",
+    "main.43a1d94d.css.map": "/etourismfront/static/css/main.43a1d94d.css.map",
+    "main.4f3abd88.js.map": "/etourismfront/static/js/main.4f3abd88.js.map",
+    "787.4870e334.chunk.js.map": "/etourismfront/static/js/787.4870e334.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43a1d94d.css",
+    "static/js/main.4f3abd88.js"
+  ]
+}

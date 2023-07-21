@@ -1,6 +1,6 @@
 import axios from "axios";
 
-axios.defaults.baseURL = "http://localhost:8081";
+axios.defaults.baseURL = "https://example-omar-etourism.onrender.com";
 axios.defaults.headers.post["Content-type"] = "application/json";
 
  
